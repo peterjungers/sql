@@ -1,4 +1,4 @@
-## Transact SQL
+# Transact SQL
 ### Re-writing Lab 7
 
 The final week of my advanced SQL course was devoted to learning programming in T-SQL. The assignment was to write a version of the PL/SQL program we had written in Lab 7, containing procedures and triggers. The program runs from the final procedure written in Lab9.sql: Lab9proc.
